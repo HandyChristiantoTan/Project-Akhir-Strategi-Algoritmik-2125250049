@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import ttk
 import pandas as pd
 
-# Load data from CSV
 data = pd.read_csv('JioMart.csv')
 
 class GreedySelectionApp:
@@ -12,27 +11,25 @@ class GreedySelectionApp:
         self.create_widgets()
 
     def create_widgets(self):
-        # Create input fields and buttons
-        self.budget_label = tk.Label(self.root, text="Batasan Anggaran:")
+        self.budget_label = tk.Label(self.root, text="Masukkan Anggaran:")
         self.budget_label.pack()
         self.budget_entry = tk.Entry(self.root)
         self.budget_entry.pack()
 
-        self.weight_label = tk.Label(self.root, text="Batasan Bobot:")
+        self.weight_label = tk.Label(self.root, text="Masukkan Bobot:")
         self.weight_label.pack()
         self.weight_entry = tk.Entry(self.root)
         self.weight_entry.pack()
 
-        self.budget_button = tk.Button(self.root, text="Batasan Anggaran", command=self.apply_budget_constraint)
+        self.budget_button = tk.Button(self.root, text="Simpan Anggaran", command=self.apply_budget_constraint)
         self.budget_button.pack()
 
-        self.weight_button = tk.Button(self.root, text="Batasan Bobot", command=self.apply_weight_constraint)
+        self.weight_button = tk.Button(self.root, text="Simpan Bobot", command=self.apply_weight_constraint)
         self.weight_button.pack()
 
-        self.discount_button = tk.Button(self.root, text="Batasan Anggaran dengan Diskon", command=self.apply_discount_constraint)
+        self.discount_button = tk.Button(self.root, text="Simpan Anggaran Diskon", command=self.apply_discount_constraint)
         self.discount_button.pack()
 
-        # Table to display results
         self.tree = ttk.Treeview(self.root, columns=('Nama', 'Harga', 'Harga Diskon', 'Bobot', 'Tipe Barang'), show='headings')
         self.tree.heading('Nama', text='Nama Barang')
         self.tree.heading('Harga', text='Harga')
@@ -41,7 +38,6 @@ class GreedySelectionApp:
         self.tree.heading('Tipe Barang', text='Tipe Barang')
         self.tree.pack()
 
-        # Labels to display totals
         self.total_label = tk.Label(self.root, text="")
         self.total_label.pack()
 
@@ -97,15 +93,12 @@ class GreedySelectionApp:
         self.display_items(selected_items, total_cost, total_discount_cost, total_weight)
 
     def display_items(self, items, total_cost, total_discount_cost, total_weight):
-        # Clear existing items in the treeview
         for i in self.tree.get_children():
             self.tree.delete(i)
         
-        # Add new items to the treeview
         for item in items:
             self.tree.insert('', tk.END, values=(item['Nama'], item['Harga'], item['Harga Diskon'], item['Bobot'], item['Tipe Barang']))
         
-        # Display totals
         self.total_label.config(text=f"Total Harga: {total_cost:.2f}, Total Harga Diskon: {total_discount_cost:.2f}, Total Bobot: {total_weight:.2f}")
 
 if __name__ == "__main__":
