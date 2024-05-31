@@ -2,12 +2,13 @@ import tkinter as tk
 from tkinter import ttk
 import pandas as pd
 
+# Load data from CSV
 data = pd.read_csv('JioMart.csv')
 
 class GreedySelectionApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Algoritma Greedy")
+        self.root.title("Penerapan Algoritma Greedy")
         self.create_widgets()
 
     def create_widgets(self):
@@ -28,7 +29,7 @@ class GreedySelectionApp:
         self.weight_button = tk.Button(self.root, text="Batasan Bobot", command=self.apply_weight_constraint)
         self.weight_button.pack()
 
-        self.discount_button = tk.Button(self.root, text="Batasan Anggaran Diskon", command=self.apply_discount_constraint)
+        self.discount_button = tk.Button(self.root, text="Batasan Anggaran dengan Diskon", command=self.apply_discount_constraint)
         self.discount_button.pack()
 
         # Table to display results
@@ -40,46 +41,62 @@ class GreedySelectionApp:
         self.tree.heading('Tipe Barang', text='Tipe Barang')
         self.tree.pack()
 
+        # Labels to display totals
+        self.total_label = tk.Label(self.root, text="")
+        self.total_label.pack()
+
     def apply_budget_constraint(self):
         budget = float(self.budget_entry.get())
         filtered_data = data.sort_values(by='Harga')
         selected_items = []
         total_cost = 0
+        total_discount_cost = 0
+        total_weight = 0
 
         for _, row in filtered_data.iterrows():
             if total_cost + row['Harga'] <= budget:
                 selected_items.append(row)
                 total_cost += row['Harga']
+                total_discount_cost += row['Harga Diskon']
+                total_weight += row['Bobot']
         
-        self.display_items(selected_items)
+        self.display_items(selected_items, total_cost, total_discount_cost, total_weight)
 
     def apply_weight_constraint(self):
         weight_limit = float(self.weight_entry.get())
         filtered_data = data.sort_values(by='Bobot')
         selected_items = []
+        total_cost = 0
+        total_discount_cost = 0
         total_weight = 0
 
         for _, row in filtered_data.iterrows():
             if total_weight + row['Bobot'] <= weight_limit:
                 selected_items.append(row)
+                total_cost += row['Harga']
+                total_discount_cost += row['Harga Diskon']
                 total_weight += row['Bobot']
         
-        self.display_items(selected_items)
+        self.display_items(selected_items, total_cost, total_discount_cost, total_weight)
 
     def apply_discount_constraint(self):
         budget = float(self.budget_entry.get())
         filtered_data = data.sort_values(by='Harga Diskon')
         selected_items = []
         total_cost = 0
+        total_discount_cost = 0
+        total_weight = 0
 
         for _, row in filtered_data.iterrows():
-            if total_cost + row['Harga Diskon'] <= budget:
+            if total_discount_cost + row['Harga Diskon'] <= budget:
                 selected_items.append(row)
-                total_cost += row['Harga Diskon']
+                total_cost += row['Harga']
+                total_discount_cost += row['Harga Diskon']
+                total_weight += row['Bobot']
         
-        self.display_items(selected_items)
+        self.display_items(selected_items, total_cost, total_discount_cost, total_weight)
 
-    def display_items(self, items):
+    def display_items(self, items, total_cost, total_discount_cost, total_weight):
         # Clear existing items in the treeview
         for i in self.tree.get_children():
             self.tree.delete(i)
@@ -87,6 +104,9 @@ class GreedySelectionApp:
         # Add new items to the treeview
         for item in items:
             self.tree.insert('', tk.END, values=(item['Nama'], item['Harga'], item['Harga Diskon'], item['Bobot'], item['Tipe Barang']))
+        
+        # Display totals
+        self.total_label.config(text=f"Total Harga: {total_cost:.2f}, Total Harga Diskon: {total_discount_cost:.2f}, Total Bobot: {total_weight:.2f}")
 
 if __name__ == "__main__":
     root = tk.Tk()
