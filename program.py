@@ -2,13 +2,12 @@ import tkinter as tk
 from tkinter import ttk
 import pandas as pd
 
-# Load data from CSV
 data = pd.read_csv('JioMart.csv')
 
 class GreedySelectionApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Penerapan Algoritma Greedy")
+        self.root.title("Algoritma Greedy")
         self.create_widgets()
 
     def create_widgets(self):
@@ -29,7 +28,7 @@ class GreedySelectionApp:
         self.weight_button = tk.Button(self.root, text="Batasan Bobot", command=self.apply_weight_constraint)
         self.weight_button.pack()
 
-        self.discount_button = tk.Button(self.root, text="Batasan Anggaran dengan Diskon", command=self.apply_discount_constraint)
+        self.discount_button = tk.Button(self.root, text="Batasan Anggaran Diskon", command=self.apply_discount_constraint)
         self.discount_button.pack()
 
         # Table to display results
