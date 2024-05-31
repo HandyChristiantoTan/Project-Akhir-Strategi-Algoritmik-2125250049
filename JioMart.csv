@@ -1,0 +1,501 @@
+Nama,Harga,Harga Diskon,Bobot,Tipe Barang
+Besan 1 kg,160,74,1,Staples
+Besan 500 g,80,37,0.5,Staples
+Maida 1 kg,80,32,1,Staples
+Rawa 1 kg,86,38,1,Staples
+Maida 500 g,40,17.5,0.5,Staples
+Rawa 500 g,43,20,0.5,Staples
+Good Life MP Wheat Chakki Atta 10 kg,400,325,10,Staples
+Uttam Superfine Maida 500 g,30,25,0.5,Staples
+Aashirvaad Whole Wheat Atta 5 kg,245,210,5,Staples
+Rajdhani Chana Sattu 500 g,81,59,0.5,Staples
+Aashirvaad Whole Wheat Atta 10 kg,450,379,10,Staples
+Chakki Atta 5 kg,210,145,5,Staples
+Gajanann Foods Rajgira Flour 200 g,70,35,0.2,Staples
+Gajanann Foods Upavas Bhajani 200 g,65,32.5,0.2,Staples
+Bhagirathi Singhara atta 200 g,100,75,0.2,Staples
+Nutrapoorna Rajgira Atta 500 g,74,49.34,0.5,Staples
+Nutrapoorna Singoda Atta 200 g,95,63.34,0.2,Staples
+Chakki Atta 10 kg,375,279,10,Staples
+Rajdhani Besan 500 g,70,45,0.5,Staples
+Good Life MP Wheat Chakki Atta 5 kg,225,159,5,Staples
+Good Life Sava Rice 500 g,70,65,0.5,Staples
+Aashirvaad Select Sharbati Whole Wheat Atta 5 kg,295,239,5,Staples
+Aashirvaad Multigrain Atta 5 kg,305,239,5,Staples
+Aashirvaad Whole Wheat Atta 1 kg,52,48.36,1,Staples
+Rajdhani Besan 1 kg,139,89,1,Staples
+Good Life MP Wheat Chakki Atta 1 kg,50,39,1,Staples
+Nature Fresh Sampoorna Chakki Whole Wheat Atta 10 kg,450,345,10,Staples
+Aashirvaad Whole Wheat Atta 2 kg,102,94.86,2,Staples
+Fortune Chakki Fresh Atta 5 kg,211,169,5,Staples
+Madam Rawa 500 g,37,34.41,0.5,Staples
+Uttam Wheat's Daliya 500 g,32,28,0.5,Staples
+Aashirvaad Select Sharbati Whole Wheat Atta 1 kg,60,55.8,1,Staples
+Patanjali Traditional Chakki Whole Wheat With Bran Atta 10 kg,350,325.5,10,Staples
+Madam Besan 500 g,65,55,0.5,Staples
+Manna Plain Ragi Flour 500 g,47,42.3,0.5,Staples
+Manna Rice Flour 500 g,43,38.7,0.5,Staples
+Manna Rice Flour 1 kg,79,71.1,1,Staples
+Manna Sprouted Ragi Flour 500 g,95,85.5,0.5,Staples
+Bhagirathi Bhajani Chakli Atta 500 g,110,102.3,0.5,Staples
+Bhagirathi Anarase Peeth 500 g,110,102.3,0.5,Staples
+Dhanashree Ready To Cook Navanna Ghavan 250 g,65,60.45,0.25,Staples
+Good Life Whole Wheat Atta with Multigrain Atta 5 kg,275,199,5,Staples
+Brahmins Fried Rawa 500 g,64,59.52,0.5,Staples
+Madam Idli Rawa 500 g,33,30.69,0.5,Staples
+Nature Fresh Sampoorna Chakki Whole Wheat Atta 5 kg,245,179,5,Staples
+Good Life Multigrain Atta 1 kg,58,47,1,Staples
+Good Life MP Sharbatti Atta 5 kg,255,189,5,Staples
+Madam Kansar Lapsi Rawa 500 g,37,34.41,0.5,Staples
+Madam Nachni Millet Flour 500 g,38,35.34,0.5,Staples
+Gajanann Foods Thalipeeth Bhajani 200 g,55,27.5,0.2,Staples
+Satyam Rawa 1 kg,66,61.38,1,Staples
+Madam Bajra Millet Flour 500 g,32,29.76,0.5,Staples
+Satyam Rawa 500 g,34,31.62,0.5,Staples
+Good Life MP Sharbatti Atta 1 kg,55,45,1,Staples
+GM Foods Masala Missi Roti Atta 500 g,98,49,0.5,Staples
+Gajanann Foods Rice Flour 500 g,45,22.5,0.5,Staples
+Satyam Lapsi Daliya 500 g,37,34.41,0.5,Staples
+Gajanann Foods Jwari Flour 500 g,55,27.5,0.5,Staples
+GM Foods Moong Bhajiya Pakodi Flour 500 g,128,64,0.5,Staples
+Satyam Besan 500 g,71,66.03,0.5,Staples
+Bhagirathi Jowar Millet Flour 500 g,42,39.06,0.5,Staples
+Brahmins Wheat Puttu Podi 500 g,50,46.5,0.5,Staples
+Satyam Idli Rawa 500 g,31,28.83,0.5,Staples
+Gajanann Foods Nachni Flour 500 g,55,27.5,0.5,Staples
+Bhagirathi Bajra Millet Flour 500 g,35,32.55,0.5,Staples
+Gajanann Foods Makka Flour 500 g,50,25,0.5,Staples
+I Love Besan 500 g,73,67.89,0.5,Staples
+Gajanann Foods Kokani Vade Flour 200 g,60,30,0.2,Staples
+Satyam Daliya 200 g,45,41.85,0.2,Staples
+Gajanann Foods Bajri Flour 500 g,45,22.5,0.5,Staples
+Satyam Nachni Millet Flour 500 g,41,38.13,0.5,Staples
+Aashirvaad Sugar Release Control Atta 1 kg,64,59.52,1,Staples
+GM Foods Aloo Paratha Masala Mix 500 g,90,45,0.5,Staples
+Uttam Premium Superfine Besan 500 g,61,52,0.5,Staples
+Satyam Rajgira Flour 500 g,83,77.19,0.5,Staples
+Nutrapoorna Dhokla Atta 500 g,59,50.15,0.5,Staples
+Nutrapoorna Makai Atta 500 g,39,33.15,0.5,Staples
+Bhagirathi Multigrain Thalipeeth Bhajni 500 g,100,93,0.5,Staples
+Nutrapoorna Rice Atta 500 g,35,29.75,0.5,Staples
+Shree Daliya 200 g,29,26.97,0.2,Staples
+Nutrapoorna Jowar Atta 500 g,61,51.85,0.5,Staples
+Nutrapoorna Handwa Atta 500 g,51,43.35,0.5,Staples
+Nutrapoorna Nachni Atta 500 g,47,39.95,0.5,Staples
+Satyam Shingoda Atta 500 g,234,217.62,0.5,Staples
+Bhagirathi Nachni Satwa Plain 200 g,50,46.5,0.2,Staples
+Nutrapoorna Thepla Atta 500 g,100,85,0.5,Staples
+Nutrapoorna Multigrain Wheat Atta 1 kg,75,67.5,1,Staples
+Nutrapoorna Gold Premium Wheat Atta 5 kg,370,333,5,Staples
+Nutrapoorna Gold Premium Wheat Atta 1 kg,75,67.5,1,Staples
+Nutrapoorna Punjabi Wheat Atta 1 kg,66,59.4,1,Staples
+K-Pra Poshak Upwas Bhajni 200 g,50,46.5,0.2,Staples
+Nutrapoorna Daily Need Wheat Atta 1 kg,56,50.4,1,Staples
+Nutrapoorna Karkara Wheat Atta 500 g,41,34.85,0.5,Staples
+Praakritik Organic Singhara Atta 500 g,240,223.2,0.5,Staples
+Satyam Khaman 200 g,104,96.72,0.2,Staples
+Deccan Organic Khapli Wheat Daliya 500 g,99,87.12,0.5,Staples
+Deccan Organic Jowar Millet Flour 1 kg,110,96.8,1,Staples
+Deccan Organic Besan 500 g,99,79.2,0.5,Staples
+Organic Tattva Wheat Maida 500 g,55,41.25,0.5,Staples
+Organic Tattva Rawa 500 g,55,41.25,0.5,Staples
+Pro Nature Organic Maida 500 g,48,44.64,0.5,Staples
+Pro Nature Organic Whole Wheat Atta 1 kg,68,63.24,1,Staples
+24 Mantra Organic Premium Whole Wheat Atta 1 kg,60,55.8,1,Staples
+24 Mantra Organic Premium Whole Wheat Atta 5 kg,290,269.7,5,Staples
+Organic Tattva Wheat Atta 5 kg,300,225,5,Staples
+24 Mantra Organic 7 Grain Atta 1 kg,95,88.35,1,Staples
+Deccan Organic Khapli Wheat Atta 1 kg,177,155.76,1,Staples
+Pro Nature Organic Besan 500 g,124,115.32,0.5,Staples
+24 Mantra Organic Besan 500 g,95,88.35,0.5,Staples
+Organic Tattva Besan 500 g,100,75,0.5,Staples
+Deccan Organic Wheat Maida 500 g,55,41.25,0.5,Staples
+Pro Nature Organic Ragi Flour 500 g,60,55.8,0.5,Staples
+Pro Nature 100 % Organic Daliya 500 g,60,55.8,0.5,Staples
+24 Mantra Organic Sattu Atta 500 g,95,88.35,0.5,Staples
+24 Mantra Organic Wheat Daliya 500 g,48,44.64,0.5,Staples
+Organic Tattva Ragi Millet Flour 500 g,70,52.5,0.5,Staples
+Deccan Organic Sprouted Ragi Millet Flour 500 g,79,63.2,0.5,Staples
+Deccan Organic Barley Atta 500 g,70,61.6,0.5,Staples
+Good Life Kabuli Chana 500 g,83,66,0.5,Staples
+Good Life Moong Dal 500 g,79,66,0.5,Staples
+Good Life Small Brown Chana 500 g,55,46,0.5,Staples
+Good Life Moong Dal 1 kg,156,129,1,Staples
+Good Life Chana Dal 500 g,55,44,0.5,Staples
+Good Life Whole Moong 500 g,75,64,0.5,Staples
+Good Life Urad Dal 500 g,80,69,0.5,Staples
+Good Life Kabuli Chana 1 kg,163,129,1,Staples
+Good Life Masoor Dal 500 g,67,51,0.5,Staples
+Good Life Brown Chana 1 kg,107,89,1,Staples
+Good Life Chitra Rajma 500 g,100,90,0.5,Staples
+Good Life Raw Peanuts 1 kg,180,151,1,Staples
+Tata Sampann High Protein Unpolished Chana Dal 500 g,64,59.52,0.5,Staples
+Good Life Chilka Urad Dal 500 g,79,75,0.5,Staples
+Good Life Toor Dal 500 g,87,64,0.5,Staples
+Good Life Chilka Moong Dal 500 g,78,61,0.5,Staples
+Best Farms Kabuli Chana 500 g,89,69,0.5,Staples
+Best Farms Whole Moong 500 g,81,71,0.5,Staples
+Good Life Red Rajma 500 g,79,70,0.5,Staples
+Tata Sampann High Protein Green Whole Moong 500 g,89,69,0.5,Staples
+Good Life Dal Mix 500 g,75,69,0.5,Staples
+Good Life Raw Peanuts 500 g,100,75,0.5,Staples
+Good Life Tur Dal 1 kg,171,125,1,Staples
+Loose Chana Dal 1 kg,76,69,1,Staples
+Loose Moong Dal 1 kg,101,90,1,Staples
+Good Life Toor Dal Oily 1 kg,167,129,1,Staples
+Chana Dal 2 kg,210,138,2,Staples
+Good Life Whole Masoor 500 g,65,51,0.5,Staples
+Good Life Chilka Moong Dal 1 kg,153,119,1,Staples
+Good Life Whole Urad 500 g,79,73,0.5,Staples
+Moong Dal 2 kg,320,184,2,Staples
+Good Life Washed Gota Urad 500 g,83,78,0.5,Staples
+Tata Sampann High Protein Unpolished Moong Dal 500 g,94,87.42,0.5,Staples
+Best Farms Moong Dal 500 g,99,75,0.5,Staples
+Good Life Sharmili Rajma 500 g,90,82,0.5,Staples
+Best Farms Kabuli Chana 1 kg,175,135,1,Staples
+Best Farms Chana Dal 500 g,57,53,0.5,Staples
+Tata Sampann High Protein Unpolished Chilka Moong 500 g,93,86.49,0.5,Staples
+Good Life Moth Bean 500 g,66,59,0.5,Staples
+Pick N Cook Masoor Dal 500 g,73,67,0.5,Staples
+Best Farms Green Chana 500 g,95,70,0.5,Staples
+Best Farms Moth Beans 500 g,100,90,0.5,Staples
+Pick N Cook Whole Masoor 500 g,72,66,0.5,Staples
+Good Life Malka Masoor 500 g,67,53,0.5,Staples
+Gulab Peanuts 500 g,101,87,0.5,Staples
+Best Farms Whole Masoor 500 g,68,60,0.5,Staples
+I Love Premium Split Moong 500 g,112,104.16,0.5,Staples
+Wonderland Foods Pumpkin Seeds 200 g,400,300,0.2,Staples
+Wonderland Foods Premium Roasted Chia Seeds 200 g,325,243.75,0.2,Staples
+Praakritik Organic Coconut Sugar 100 g,130,120.9,0.1,Staples
+MB Sugar Cubes 500 g,65,60,0.5,Staples
+Trust Classic Sugar Cubes 500 g,65,60,0.5,Staples
+Tata Rock Salt With Crusher 100 g,130,120,0.1,Staples
+24 Mantra Organic Jaggery Powder 500 g,80,74.4,0.5,Staples
+MeraKisan Organic Rock Salt 500 g,65,60.45,0.5,Staples
+Pro Nature Organic Brown Sugar 1 kg,149,138.57,1,Staples
+MB Apple Fancy Refined Sugar 200 g,50,46,0.2,Staples
+MH Natural Jaggery Powder 500 g,100,92,0.5,Staples
+MH Natural Jaggery Cube 450 g,100,92,0.45,Staples
+MH Jaggery Cube 950 g,115,105,0.95,Staples
+Praakritik Organic Raw Sugar 500 g,90,83.7,0.5,Staples
+Satyam Jaggery 500 g,55,50,0.5,Staples
+Paawak Jaggery Cubes 500 g,100,93,0.5,Staples
+Tata Salt Sprinkler 100 g,26,24,0.1,Staples
+Satyam Bura Sugar 500 g,48,39,0.5,Staples
+Trust Classic Pure Mishri 200 g,25,22.5,0.2,Staples
+Pitambari Ruchiyana Jaggery Powder 500 g,75,69,0.5,Staples
+MB Breakfast Refined Sugar 500 g,55,50,0.5,Staples
+MB Fondant Icing Sugar 500 g,70,65,0.5,Staples
+MB Castor Sugar 500 g,70,65,0.5,Staples
+Powdered Sugar 500 g,35,26,0.5,Staples
+Deccan Organic Sulphurless Sugar 500 g,65,47.45,0.5,Staples
+Deccan Organic Brown Sugar 500 g,80,58.4,0.5,Staples
+Pro Nature Himalayan Pink Salt 500 g,66,61.38,0.5,Staples
+Deccan Organic Rock Salt 500 g,45,30,0.5,Staples
+Deccan Organic Jaggery Powder 500 g,79,57.67,0.5,Staples
+Deccan Organic Himalayan Pink Salt 1 kg,89,53,1,Staples
+Pro Nature Organic Brown Sugar 500 g,78,72.54,0.5,Staples
+Organic Tattva Natural Rock Salt 500 g,45,33.75,0.5,Staples
+24 Mantra Sulphurless Sugar 500 g,60,55.8,0.5,Staples
+24 Mantra Organic Jaggery 450 g,85,79.05,0.45,Staples
+Britannia Good Day Cashew Cookies 100 g,20,16,0.1,Snacks and branded foods
+Britannia NutriChoice Hi-Fibre Digestive Biscuits 100 g,20,17,0.1,Snacks and branded foods
+Sunfeast Mom's Magic Cashew & Almond Biscuits 600 g,105,75,0.6,Snacks and branded foods
+Britannia Bourbon The Original Cream Biscuits 150 g,30,24,0.15,Snacks and branded foods
+Britannia NutriChoice Hi-Fibre Digestive Biscuits 1 kg,169,125,1,Snacks and branded foods
+Parle-G Original Glucose Biscuits 800 g,70,63,0.8,Snacks and branded foods
+Parle Monaco Classic Regular Salted Biscuits 400 g,60,54,0.4,Snacks and branded foods
+Parle Krack Jack Crackers 400 g,60,54,0.4,Snacks and branded foods
+Britannia Marie Gold Biscuits 250 g,30,25,0.25,Snacks and branded foods
+Britannia Good Day Cashew Cookies 200 g,40,37,0.2,Snacks and branded foods
+Veeba Chef Restaurant Style Hot Garlic Gravy 250 g,149,138.57,0.25,Snacks and branded foods
+Parle Monaco Salted Biscuits 200 g,30,27.9,0.2,Snacks and branded foods
+Britannia Vita Marie Gold Biscuits 300 g,40,35,0.3,Snacks and branded foods
+Parle Krack Jack Crackers 200 g,30,27.9,0.2,Snacks and branded foods
+Parle-G Original Glucose Biscuits 250 g,20,18.6,0.25,Snacks and branded foods
+Olicoop Whole Green Spanish Olives 450 g,240,216,0.45,Snacks and branded foods
+Dukes Waffy Choco Wafer Rolls 250 g,150,75,0.25,Snacks and branded foods
+Britannia 50-50 Sweet & Salty Biscuits 200 g,30,27.9,0.2,Snacks and branded foods
+Unibic Fruit & Nut Cookies 500 g,165,82.5,0.5,Snacks and branded foods
+Unibic Choco Chip Cookies 500 g,165,82.5,0.5,Snacks and branded foods
+Dukes Masala Nibbles 150 g,50,28,0.15,Snacks and branded foods
+Britannia Good Day Cashew Biscuits 1 Kg,230,150,1,Snacks and branded foods
+Parle Marie Biscuits 250 g,30,22.5,0.25,Snacks and branded foods
+Parle Milano Centre Filled Choco Cookies 250 g,120,60,0.25,Snacks and branded foods
+Dukes Waffy Strawberry Wafer Rolls 250 g,150,75,0.25,Snacks and branded foods
+Dukes Nice Sugar Sprinkled Coconut Biscuits 150 g,25,19,0.15,Snacks and branded foods
+Parle Fab Bourbon Chocolate Cream Biscuits 150 g,30,27.9,0.15,Snacks and branded foods
+Parle Monaco Classic Cheeslings 150 g,60,55.8,0.15,Snacks and branded foods
+Britannia Milk Bikis Biscuits 500 g,60,40,0.5,Snacks and branded foods
+Cadbury Oreo Original Vanilla Creme Cookies Jumbo Pack 500 g,135,90,0.5,Snacks and branded foods
+Parle Monaco Classic Cheeslings 300 g,120,108,0.3,Snacks and branded foods
+Britannia Good Day Choco-Chips Biscuits 400 g,120,70,0.4,Snacks and branded foods
+Britannia Pure Magic Chocolush Cookies 300 g,120,70,0.3,Snacks and branded foods
+Britannia Tiger Krunch Chocochips Biscuits Combo Pack 400 g,100,50,0.4,Snacks and branded foods
+Britannia Milk Bikis Biscuits 200 g,20,18.6,0.2,Snacks and branded foods
+Parle-G Gold Biscuits 500 g,65,60.45,0.5,Snacks and branded foods
+Karachi Badam Pista Biscuit 400 g,260,195,0.4,Snacks and branded foods
+Sapphire Magic Strawberry Stixs 200 g,135,121.5,0.2,Snacks and branded foods
+Tiffany Sugarfree Oatmeal Cookies 150 g,225,202.5,0.15,Snacks and branded foods
+Tiffany Active Digestive Biscuits 400 g,200,180,0.4,Snacks and branded foods
+Tiffany Digestive Biscuits 250 g,135,121.5,0.25,Snacks and branded foods
+Gullon Gluten Free Cookies 200 g,249,224.1,0.2,Snacks and branded foods
+Priyagold Butter Bite Premium Butter Cookies 600 g,160,128,0.6,Snacks and branded foods
+Priyagold Marie Lite Biscuits 300 g,55,27.5,0.3,Snacks and branded foods
+Priyagold CNC Sweet & Salty Biscuits 200 g,40,20,0.2,Snacks and branded foods
+Priyagold Snacks Zig-Zag Classic Salted Biscuits 500 g,60,49,0.5,Snacks and branded foods
+Tiffany Light Digestive Biscuits 400 g,250,225,0.4,Snacks and branded foods
+Lovely Jeera Salted Biscuits 400 g,150,127.5,0.4,Snacks and branded foods
+Britannia NutriChoice Hi-Fibre 5 Grain Digestive Biscuits 200 g,65,60.45,0.2,Snacks and branded foods
+Parle Monaco Sixer Salted Biscuits 200 g,60,55.8,0.2,Snacks and branded foods
+Unibic Milk Cookies 500 g,125,62.5,0.5,Snacks and branded foods
+Chakote Coconut Biscuits 200 g,45,36,0.2,Snacks and branded foods
+Jahagirdar Coconut Cookies 300 g,120,96,0.3,Snacks and branded foods
+Jahagirdar Ragi Biscuits 150 g,60,48,0.15,Snacks and branded foods
+Jahagirdar Nagali Ragi Biscuits 500 g,160,128,0.5,Snacks and branded foods
+Palekar Blissful Butter Nankatai 200 g,50,40,0.2,Snacks and branded foods
+Palekar Classic Choco Nankatai 200 g,50,40,0.2,Snacks and branded foods
+Palekar Crunchy Coconut Nankatai 200 g,50,40,0.2,Snacks and branded foods
+Palekar Rich Rose Nankatai 200 g,45,36,0.2,Snacks and branded foods
+Palekar Wow Vanilla Nankatai 200 g,50,40,0.2,Snacks and branded foods
+Parle Monaco Jeffs Zeera Biscuits 200 g,60,55.8,0.2,Snacks and branded foods
+Parle Krackjack Butter Masala Biscuits 300 g,60,40,0.3,Snacks and branded foods
+Cadbury Bournvita Biscuits Super Value Pack 400 g,99,59,0.4,Snacks and branded foods
+McVitie's Digestive Biscuits 400 g,199,179.1,0.4,Snacks and branded foods
+McVities Lite Digestive Biscuits 400 g,199,179.1,0.4,Snacks and branded foods
+Sapphire Sugar Crackers 350 g,180,162,0.35,Snacks and branded foods
+Loacker Quadrattini Vanilla Wafer Cookies 250 g,349,314.1,0.25,Snacks and branded foods
+Tiffany Crunch N Cream Hazelnut Wafers 150 g,90,81,0.15,Snacks and branded foods
+Tiffany Crunch N Cream Strawberry Wafers 150 g,90,81,0.15,Snacks and branded foods
+Tiffany Crunch N Cream Vanilla Wafers 150 g,90,81,0.15,Snacks and branded foods
+Tiffany Crunch 'N' Cream Orange Wafer Biscuits 150 g,90,81,0.15,Snacks and branded foods
+Tiffany Crunch 'N' Cream Chocolate Wafers 150 g,90,81,0.15,Snacks and branded foods
+Unibic Oatmeal Digestive Cookies 600 g,190,95,0.6,Snacks and branded foods
+Parle Nutricrunch Digestive Marie Biscuits 250 g,30,27.9,0.25,Snacks and branded foods
+McVitie`s Digestive Biscuits 1 kg,169,112.67,1,Snacks and branded foods
+Tiffany Light Digestive Biscuits 250 g,175,157.5,0.25,Snacks and branded foods
+Weikfield Macaroni Pasta 900 g,120,99,0.9,Snacks and branded foods
+Bambino Premium Vermicelli 850 g,77,69.3,0.85,Snacks and branded foods
+Bambino Popular Vermicelli 400 g,40,37.2,0.4,Snacks and branded foods
+Del Monte Food Craft Rigate Penne Pasta 500 g,130,117,0.5,Snacks and branded foods
+Maggi Nutri-licious Masala Instant Oats Noodles 300 g,98,90,0.3,Snacks and branded foods
+Snacatac Roasted Vermicelli 450 g,69,34.5,0.45,Snacks and branded foods
+Weikfield Penne Pasta 400 g,140,99,0.4,Snacks and branded foods
+Del Monte Food Craft Fusilli Pasta 500 g,130,117,0.5,Snacks and branded foods
+Barilla Penne Rigate Pasta 500 g,249,231.57,0.5,Snacks and branded foods
+Barilla Collezione Lasagne 500 g,499,449.1,0.5,Snacks and branded foods
+Brunella No. 113 Farfalle Pasta 500 g,150,139.5,0.5,Snacks and branded foods
+Barilla Durum Chifferi Elbow Pasta 500 g,249,224.1,0.5,Snacks and branded foods
+Barilla Integrale Whole Wheat Rigate Penne Pasta 500 g,325,292.5,0.5,Snacks and branded foods
+Barilla Whole Wheat Spaghetti Pasta 500 g,325,292.5,0.5,Snacks and branded foods
+Barilla Linguine Pasta 500 g,249,224.1,0.5,Snacks and branded foods
+Barilla Maccheroni Pasta 500 g,249,224.1,0.5,Snacks and branded foods
+Barilla Rigatoni Pasta 500 g,249,224.1,0.5,Snacks and branded foods
+Elephant Roasted Vermicelli 200 g,35,32.55,0.2,Snacks and branded foods
+Del Monte Food Craft Fusilli Pasta 1 kg,210,195.3,1,Snacks and branded foods
+Bambino Premium Penne Pasta 500 g,150,139.5,0.5,Snacks and branded foods
+Elephant Roasted Vermicelli 500 g,70,65.1,0.5,Snacks and branded foods
+Blue Bird Fusilli Pasta 500 g,124,115.32,0.5,Snacks and branded foods
+Elephant Roasted Vermicelli 400 g,70,65.1,0.4,Snacks and branded foods
+Blue Bird Vermicelli 200 g,20,18.6,0.2,Snacks and branded foods
+Del Monte Food Craft Elbow Pasta 1 kg,210,195.3,1,Snacks and branded foods
+Del Monte Domestic Penne Pasta 1 Kg,210,195.3,1,Snacks and branded foods
+Weikfield Fusilli Pasta 200 g,70,65.1,0.2,Snacks and branded foods
+True Elements Honey Crunch Baked Granola 350 g,295,274.35,0.35,Snacks and branded foods
+True Elements Cranberry & Blueberry Muesli 1 kg,595,553.35,1,Snacks and branded foods
+True Elements Fruit & Nut Muesli 1 kg,595,553.35,1,Snacks and branded foods
+Zerobeli Crunchy Fruit Delight Muesli 500 g,315,270.9,0.5,Snacks and branded foods
+Zerobeli Crunchy Honey Almond Muesli 250 g,160,139.2,0.25,Snacks and branded foods
+Oateo Instant Oats 1 Kg,199,169.15,1,Snacks and branded foods
+Oateo Rolled Oats 1 Kg,280,221.2,1,Snacks and branded foods
+Oateo Steel Cut Oats 500 g,150,130.5,0.5,Snacks and branded foods
+Saffola Classic Instant Masala Oats 500 g,195,181.35,0.5,Snacks and branded foods
+Zerobeli Gluten Free Rolled Oats 600 g,175,150.5,0.6,Snacks and branded foods
+Saffola Veggie Twist Instant Masala Oats 500 g,195,181.35,0.5,Snacks and branded foods
+Kellogg's Corn Flakes With Real Almond & Honey 1 kg,550,399,1,Snacks and branded foods
+Kellogg's Chocos 1.2 kg,470,385,1.2,Snacks and branded foods
+Kellogg's Fruit & Nut Crunchy Muesli 500 g,325,302.25,0.5,Snacks and branded foods
+Saffola Peppy Tomato Instant Masala Oats 500 g,195,181.35,0.5,Snacks and branded foods
+Timios Cereal Crunchies 300 g,160,148.8,0.3,Snacks and branded foods
+True Elements Cranberry Blueberry Muesli 400 g,295,274.35,0.4,Snacks and branded foods
+True Elements Fruit & Nut Muesli 400 g,295,274.35,0.4,Snacks and branded foods
+True Elements Gluten-Free Steel Cut Oats 500 g,200,186,0.5,Snacks and branded foods
+Bagrry's Diet Friendly Crunchy Muesli (No Added Sugar) 500 g,320,260,0.5,Snacks and branded foods
+True Elements No Added Sugar Muesli 400 g,295,274.35,0.4,Snacks and branded foods
+True Elements Muesli (No Added Sugar) 1 kg,595,553.35,1,Snacks and branded foods
+Healthy Life Oats 1 kg,190,130,1,Snacks and branded foods
+Good Life Roasted Bengal Gram 200 g,60,30,0.2,Snacks and branded foods
+Aakash Ratlami Sev 350 g,80,74.4,0.35,Snacks and branded foods
+Haldiram's Nagpur Murukku 200 g,60,55.8,0.2,Snacks and branded foods
+Haldiram's Nagpur Salted Peanuts 150 g,47,43.71,0.15,Snacks and branded foods
+Mo'plleez Aloo Bhujia 1 kg,260,130,1,Snacks and branded foods
+Mo'plleez Khatta Meetha Namkeen 1 kg,250,125,1,Snacks and branded foods
+Aakash Laung Sev 350 g,80,74.4,0.35,Snacks and branded foods
+Aakash Ratlami Sev 150 g,40,37.2,0.15,Snacks and branded foods
+A1 Classic Salt Ultra Thin Banana Wafers 200 g,100,93,0.2,Snacks and branded foods
+A2B Kara Sev 200 g,70,65.1,0.2,Snacks and branded foods
+A2B Moto Sev 200 g,70,65.1,0.2,Snacks and branded foods
+A2B Om Podi 200 g,70,65.1,0.2,Snacks and branded foods
+A2B Pepper Sev 200 g,70,65.1,0.2,Snacks and branded foods
+A1 Garlic Salted Murukku 200 g,80,74.4,0.2,Snacks and branded foods
+A1 Butter Murukku 200 g,95,88.35,0.2,Snacks and branded foods
+A2B Ribbon Pakoda 200 g,70,65.1,0.2,Snacks and branded foods
+Haldiram's Nagpur Chekaralu 150 g,50,46.5,0.15,Snacks and branded foods
+Aakash Lajawab Namkeen Mix 150 g,45,41.85,0.15,Snacks and branded foods
+Garden Tasty Nuts 150 g,55,51.15,0.15,Snacks and branded foods
+Garden Crispy Murukku 150 g,45,41.85,0.15,Snacks and branded foods
+Induben Jeera Khakhra 200 g,50,42.5,0.2,Snacks and branded foods
+Haldiram's Nagpur Lemon Bhel 150 g,27,25.11,0.15,Snacks and branded foods
+Jain Vijay Bhavnagari Ghatiya 250 g,90,83.7,0.25,Snacks and branded foods
+Jain Vijay Flavoured Sev 250 g,90,83.7,0.25,Snacks and branded foods
+Laxmi Narayan Poha Chiwda 500 g,168,151.2,0.5,Snacks and branded foods
+Haldiram's Nagpur Namkeen Bhel Puri 150 g,55,51.15,0.15,Snacks and branded foods
+Samrat Chavana Mola Mix 200 g,35,23.33,0.2,Snacks and branded foods
+Samrat Tikha Chavana Namkeen 200 g,35,32.55,0.2,Snacks and branded foods
+Samrat Chana Dal 200 g,35,32.55,0.2,Snacks and branded foods
+Samrat Sing Bhujia 200 g,35,32.55,0.2,Snacks and branded foods
+Gwalia Mini Bhakharwadi 200 g,50,33.33,0.2,Snacks and branded foods
+Laxmi Narayan Potato Chiwda 500 g,180,162,0.5,Snacks and branded foods
+Haldiram's Nagpur Mini Samosa 200 g,60,55.8,0.2,Snacks and branded foods
+Chitale Cornflakes Chivda 200 g,76,70.68,0.2,Snacks and branded foods
+Chitale Namkeen Mixture 200 g,64,59.52,0.2,Snacks and branded foods
+Chitale Patal Poha Chiwda 200 g,57,53.01,0.2,Snacks and branded foods
+Chitale Potato Chivda 200 g,100,93,0.2,Snacks and branded foods
+Laxmi Narayan Potato Chiwda 250 g,90,83.7,0.25,Snacks and branded foods
+Chitale Special Chivda 200 g,76,70.68,0.2,Snacks and branded foods
+Chitale Bhakharwadi 500 g,180,167.4,0.5,Snacks and branded foods
+Chitale Bakarwadi 250 g,92,82.8,0.25,Snacks and branded foods
+Gwalia Gujarati Chawana 200 g,50,33.33,0.2,Snacks and branded foods
+Chitale Special Chiwda 500 g,185,172.05,0.5,Snacks and branded foods
+Chitale Shev 200 g,68,63.24,0.2,Snacks and branded foods
+Chitale Namkeen Mixture 500 g,160,148.8,0.5,Snacks and branded foods
+Gwalia Mini Chakri 400 g,95,88.35,0.4,Snacks and branded foods
+Jain Vijay Kachori 500 g,180,167.4,0.5,Snacks and branded foods
+Hershey's Strawberry Syrup 200 g,90,83.7,0.2,Snacks and branded foods
+Hershey's Cocoa Spread With Almond 350 g,295,275,0.35,Snacks and branded foods
+Hershey's Cocoa Spread 350 g,295,275,0.35,Snacks and branded foods
+Hershey's Chocolate Syrup 200 g,90,83.7,0.2,Snacks and branded foods
+Kissan Mixed Fruit Jam 700 g,215,163,0.7,Snacks and branded foods
+Kissan Fresh Tomato Ketchup 950 g,120,85,0.95,Snacks and branded foods
+Mother's Recipe Gujarati Gorkeri Pickle 500 g,138,124.2,0.5,Snacks and branded foods
+Mother's Recipe Lime Pickle 200 g,50,45,0.2,Snacks and branded foods
+Mother's Recipe Garlic Pickle 400 g,120,108,0.4,Snacks and branded foods
+Mother's Recipe Green Chilli Pickle 400 g,115,103.5,0.4,Snacks and branded foods
+Ghasitaram`s Farsan Kachori 400 g,175,140,0.4,Snacks and branded foods
+Ghasitaram`s Kaju Katli 400 g,475,380,0.4,Snacks and branded foods
+Ghasitaram`s Kaju Pista Roll 400 g,500,400,0.4,Snacks and branded foods
+Ghasitaram`s Besan Barfi 400 g,250,200,0.4,Snacks and branded foods
+Barilla Basilico Pasta Sauce 400 g,349,324.57,0.4,Snacks and branded foods
+Barilla Napoletana Pasta Sauce 400 g,349,324.57,0.4,Snacks and branded foods
+Barilla Ricotta Pasta Sauce 400 g,449,404.1,0.4,Snacks and branded foods
+SAMS Soya Sauce 700 g,85,42.5,0.7,Snacks and branded foods
+SAMS Vinaigrette Dressing 300 g,180,90,0.3,Snacks and branded foods
+Disano Creamy Peanut Butter 1 kg,285,265.05,1,Snacks and branded foods
+Quaker Oats 400 g,77,71.61,0.4,Snacks and branded foods
+Saffola Oats 1 kg,207,186.3,1,Snacks and branded foods
+Kwality Corn Flakes 500 g,185,172.05,0.5,Snacks and branded foods
+Nestle NesPlus Strawberry Burst Multigrain Fillows 250 g,190,176.7,0.25,Snacks and branded foods
+Kellogg's Moons & Stars Chocos Cereal 1.2 kg,640,320,1.2,Snacks and branded foods
+Nestle NesPlus Choco Krunch Multigrain Kokos 350 g,160,120,0.35,Snacks and branded foods
+Bagrry's Choco+ With 3 Great Grains 1.2 kg,480,240,1.2,Snacks and branded foods
+Snactac Bikaneri Bhujia 1 kg,325,162.5,1,Snacks and branded foods
+Wagh Bakri Leaf Tea 1 kg,500,453,1,Beverages
+Society Tea 1 kg,520,440,1,Beverages
+Taj Mahal Leaf Tea 1 kg,720,588,1,Beverages
+Red Label Leaf Tea 500 g (Carton),275,244,0.5,Beverages
+Red Label Leaf Tea 250 g (Carton),140,125,0.25,Beverages
+Society Tea 500 g,270,234,0.5,Beverages
+Taj Mahal Tea 250 g (Carton),185,165,0.25,Beverages
+Tata Gold Leaf Tea 1 kg,625,462,1,Beverages
+Tata Gold Tea 250 g,145,134.85,0.25,Beverages
+Society Tea 250 g,135,115,0.25,Beverages
+Wagh Bakri Premium Leaf Tea 250 g,130,120.9,0.25,Beverages
+Tata Agni Tea 500 g,160,133,0.5,Beverages
+Tata Agni Tea 250 g,80,72,0.25,Beverages
+Aarambh Kadak Tea 1 kg,300,279,1,Beverages
+Tata Premium Tea 500 g,260,199,0.5,Beverages
+Aarambh Kadak Tea 250 g,75,69.75,0.25,Beverages
+Aarambh Kadak Tea 500 g,150,140,0.5,Beverages
+Tata Premium Leaf Tea 250 g,135,125.55,0.25,Beverages
+Tata Gold Leaf Tea 500 g,315,235,0.5,Beverages
+Tata Agni Leaf Tea 1 kg,320,260,1,Beverages
+Red Label Natural Care Tea 500 g (Carton),315,269,0.5,Beverages
+Red Label Leaf Tea 1 kg,550,440,1,Beverages
+Taj Mahal Tea 500 g (Carton),360,304,0.5,Beverages
+Society Masala Tea 250 g,160,143,0.25,Beverages
+Taj Mahal Leaf Tea 100 g (Carton),75,69.75,0.1,Beverages
+AVT Goldcup Dust Tea 250 g,125,116.25,0.25,Beverages
+AVT Goldcup Dust Tea 500 g,250,232.5,0.5,Beverages
+Taaza Leaf Tea 250 g,80,74.4,0.25,Beverages
+Aarambh Danedar Assam Tea 250 g,130,110,0.25,Beverages
+Wagh Bakri Spiced Tea 250 g,150,139.5,0.25,Beverages
+Girnar Royal Cup Tea 1 kg,520,468,1,Beverages
+Marvel Yellow Tea 250 g,135,90,0.25,Beverages
+Girnar Royal Cup Tea 250 g,135,125.55,0.25,Beverages
+Society Masala Tea 500 g,310,288.3,0.5,Beverages
+Girnar Royal Cup Tea 500 g,270,251.1,0.5,Beverages
+Aarambh Danedar Assam Tea 1 kg,500,380,1,Beverages
+Lipton Darjeeling Leaf Tea 250 g (Carton),475,441.75,0.25,Beverages
+Aarambh Danedar Assam Tea 500 g,250,210,0.5,Beverages
+Tata Gold Mixture Tea 250 g,100,93,0.25,Beverages
+Red Label Leaf Tea 100 g,45,41.85,0.1,Beverages
+Tata Teaveda Tea 250 g,126,117.18,0.25,Beverages
+Tata Tulsi Green Tea 100 g,174,161.82,0.1,Beverages
+Tata Agni Leaf Tea 100 g,25,23.25,0.1,Beverages
+Wagh Bakri Good Morning Tea 500 g,330,306.9,0.5,Beverages
+Girnar Lalpani Chai CTC Leaf Tea 250 g,90,83.7,0.25,Beverages
+Society Dust Tea 250 g,110,102.3,0.25,Beverages
+Girnar Green Tea 250 g,210,195.3,0.25,Beverages
+Lipton Green Tea 100 g,150,139.5,0.1,Beverages
+Organic India Tulsi Green Tea 100 g,250,232.5,0.1,Beverages
+Red Label Natural Care Tea 250 g (Carton),160,145,0.25,Beverages
+Te-A-Me Long Leaf Green Tea 200 g,215,199.95,0.2,Beverages
+Marvel Gold Pattian Tea 500 g,210,170,0.5,Beverages
+Twinings Second Flush Assam Tea 100 g,650,604.5,0.1,Beverages
+Kaffe Instant Blend Coffee 200 g,180,180,0.2,Beverages
+BRU Gold Instant Coffee Powder 100 g,290,269.7,0.1,Beverages
+Nescafe Gold Blend Instant Coffee 200 g,900,765,0.2,Beverages
+Nescafe Gold Instant Coffee Powder 100 g,475,404,0.1,Beverages
+Cothas Speciality Blend Filter Coffee Powder 200 g,90,83.7,0.2,Beverages
+Colombian Brew Filter Coffee Powder 100 g,125,112.5,0.1,Beverages
+Leo Madras Blend Roast Ground 80 & 20 Coffee 500 g,240,223.2,0.5,Beverages
+Narasus Udhyam Filter Coffee Powder 100 g,51,47.43,0.1,Beverages
+Narasus Udhyam Filter Coffee Powder 200 g,102,94.86,0.2,Beverages
+Narasu's Udhyam Filter Coffee 500 g,255,237.15,0.5,Beverages
+Narasus Pure Instant Coffee Powder 100 g,190,176.7,0.1,Beverages
+Narasus Premium Bleand Filter Coffee 500 g,279,259.47,0.5,Beverages
+Narasus Premium Bleand Filter Coffee 200 g,112,104.16,0.2,Beverages
+Pristine Deccan Gold Filter Coffee 200 g,120,60,0.2,Beverages
+Continental Xtra Instant Coffee Powder 200 g,460,427.8,0.2,Beverages
+Narasus Granulated Instant Coffee 500 g,75,69.75,0.5,Beverages
+Narasus Granulated Pure Instant Coffee 500 g,90,83.7,0.5,Beverages
+Rasna Insta Orange Instant Drink Powder 750 g (Pouch),240,120,0.75,Beverages
+Glucon-D Nimbu Pani Energy Drink Powder 1 kg,330,303.6,1,Beverages
+Glucon-D Nimbu Pani 450 g (Carton),163,148.33,0.45,Beverages
+Glucon-D Regular 1 kg,180,161.8,1,Beverages
+Tang Orange Instant Drink Mix 500 g,135,101.25,0.5,Beverages
+Tang Mango Instant Drink Powder 500 g (Pouch),135,101.25,0.5,Beverages
+Glucose-D Original 450 g,110,102.3,0.45,Beverages
+Glucon-D Regular 250 g,58,53.94,0.25,Beverages
+Rasna Fruit Plus Mango Instant Drink Powder 500 g,135,108,0.5,Beverages
+Rasna Insta Nimbupani Instant Drink Powder 500 g,125,116.25,0.5,Beverages
+Rasna Insta Ener-G Orange Instant Drink Powder 500 g,135,108,0.5,Beverages
+Bournvita 500 g (Pouch),209,188.1,0.5,Beverages
+Bournvita 1 kg,410,360,1,Beverages
+Horlicks Chocolate Delight Health Drink Powder 1 kg,380,305,1,Beverages
+Bournvita 750 g,310,250,0.75,Beverages
+Amul Pro Chocolate 500 g,175,135,0.5,Beverages
+Jindal Cocoa Chocolate Powder 200 g,90,83.7,0.2,Beverages
+Bournvita 500 g,223,207.39,0.5,Beverages
+Women's Horlicks Chocolate 400 g,299,278.07,0.4,Beverages
+Bournvita Five Star Magic Chocolate 750 g,325,292.5,0.75,Beverages
+Hersheys Milk Booster Chocolate Syrup 450 g,200,186,0.45,Beverages
+Horlicks Chocolate Delight 200 g,110,102.3,0.2,Beverages
+Manna Health Drink Mix 1 kg (Carton),405,376.65,1,Beverages
+Bournvita Five Star Magic 500 g,235,218.55,0.5,Beverages
+Horlicks Lite Regular Malt 450 g,298,277.14,0.45,Beverages
+Horlicks Protein Plus Chocolate 200 g,270,251.1,0.2,Beverages
+Junior Horlicks Stage 1 500 g,273,253.89,0.5,Beverages
+Saffola Immuniveda Golden Tumeric Milk Mix 400 g,399,339,0.4,Beverages
+PediaSure Vanilla Delight Health Drink Powder 200 g,315,292.95,0.2,Beverages
+Weikfield Drinking Chocolate Powder 100 g,65,60.45,0.1,Beverages
